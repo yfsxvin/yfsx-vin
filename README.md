@@ -61,23 +61,6 @@ The dual-token model creates a self-reinforcing flywheel: fees are burned and li
 - Improve interoperability
 - Deploy native **HIP-1 Spot tokens** on **Hyperliquid** (YFSX/USDC and VIN/USDC)
 
-### Repository Structure (Coming Soon)
-
-- `contracts/` — Smart contract source code (BSC)
-- `tokenomics/` — Detailed tokenomics
-- `docs/` — Documentation and whitepaper
-- `scripts/` — Deployment and utility scripts
-- `audits/` — Security audit reports
-
----
-
-**Disclaimer**  
-This repository is for informational purposes only. It does not constitute financial advice.  
-Cryptocurrency investments carry high risk. Always **DYOR** (Do Your Own Research) and verify contract addresses independently.
-
-Contributions from the community are welcome!  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) (will be added soon) before submitting pull requests.
-
 ---
 
 Made with ❤️ by the YFSX & VIN community.
